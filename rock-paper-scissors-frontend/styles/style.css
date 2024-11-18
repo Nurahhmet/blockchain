@@ -1,0 +1,20 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 20px;
+}
+
+#game button {
+    margin: 10px;
+    padding: 10px 20px;
+    font-size: 16px;
+}
+
+#history {
+    list-style: none;
+    padding: 0;
+}
+
+#history li {
+    margin: 5px 0;
+}
